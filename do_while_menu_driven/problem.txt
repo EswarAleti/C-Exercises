@@ -1,0 +1,23 @@
+
+
+Could I get some help with this C program? Some insight on how to add the other assignments into the menu would be great
+
+You must place your functions below main() or in a separate header file (if you know how to do this)
+
+You must prototype your functions
+
+Program Specifications:
+
+You are to write the source code with the following
+
+You are to design a simple menu system using a do-while loop and a switch.
+
+[A] Assignment 3A
+
+[B] Assignment 3B
+
+[Q] Quit
+
+You are to go back to assignment 3A and 3B and bring them into this program. Each assignment will become a separate function. The arrays from the functions need to be created and maintained in main(). This will force you to pass the arrays into your functions.  
+
+You will have at least 4 functions and probably more.
